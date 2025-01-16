@@ -1,0 +1,101 @@
+*
+
+body{
+    height: 100vh;
+    background-image: url("./fundo1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+*{
+    margin: 0;
+    padding:0;  
+    box-sizing: border-box;
+    font-family: 'Poppiins', sans-serif;
+}
+
+header{
+    padding: 47px;
+    padding: 42px;  
+    
+}
+
+.link-menu{
+    font-weight: 200px;
+    font-size: 30px;
+    line-height: 21px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.938);
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #f4faf1;
+    margin-top: 10px;
+    margin-right: 50px;
+    cursor: pointer;
+
+}
+
+.button-sign-up{
+    background: #6fbf44;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff
+  
+}
+
+img {
+    margin: 35px 0 0 0px;
+    display: inline-block;
+    
+}
+
+div {
+    display: inline-block;
+    margin-left: 20px;
+    width: 493px;
+    margin-top: auto;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 70px;
+    letter-spacing: 0.596154px;
+    color: #11ce20;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+    
+}
+
+p {
+    font-weight: 400;   
+    font-size: 30px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #ffffffe5;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgb(0, 0, 0);
+}
+
+.button-learn-more {
+    background: #6fbf44;
+    border: 1px solid #4cb538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    cursor: pointer;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-align:rigth;
+}
+
+
